@@ -1,6 +1,6 @@
 # 🌱 Plant Disease Prediction System
 
-### 🚀 Live : [Click Here to Test the App](https://plant-disease-detection-system-ctqjkdq9exddzryrrupzec.streamlit.app/)
+
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![TensorFlow](https://img.shields.io/badge/Library-TensorFlow-orange)
