@@ -46,11 +46,6 @@ The model was trained on a large dataset containing over *87,000 images* of heal
     streamlit run app.py
     
 
-## 👨‍💻 Developed By
-*Aman Singh*
-* *Institute:* Noida Institute of Engineering & Technology (NIET)
-* *Course:* CSE (AI & ML)
-* *Connect:* [LinkedIn Profile](https://www.linkedin.com/)
 
 ---
 ⭐ *Don't forget to star this repo if you find it helpful!*
