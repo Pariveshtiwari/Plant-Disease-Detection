@@ -28,6 +28,9 @@ The model was trained on a large dataset containing over *87,000 images* of heal
 * *Real-time Prediction:* Upload an image and get results instantly.
 * *High Accuracy:* Uses a robust CNN architecture for classification.
 
+## Deployment URL
+https://plant-disease-detection-p.streamlit.app/
+
 ## 🏃‍♂ How to Run Locally
 
 1.  *Clone the Repository:*
