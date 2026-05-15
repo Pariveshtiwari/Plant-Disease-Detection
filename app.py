@@ -8,7 +8,7 @@ st.set_page_config(page_title="Plant Disease Detector", layout="centered")
 
 # --- TITLE & HEADER ---
 st.markdown("<h1 style='text-align: center; color: #2E8B57;'>🌱 Plant Disease Prediction System</h1>", unsafe_allow_html=True)
-st.markdown("<h4 style='text-align: center; color: #555;'>Created by Aman Singh</h4>", unsafe_allow_html=True)
+
 st.write("---")
 
 # --- LOAD MODEL ---
